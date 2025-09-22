@@ -13,5 +13,6 @@
     "url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
   },
   "author": "Andreea Sperlea",
-  "description": "A project that does something awesome"
+  "description": "A project that does something awesome",
+  "keywords": [ "descriptive", "related", "words" , "freeCodeCamp","freecodecamp"]
 }
