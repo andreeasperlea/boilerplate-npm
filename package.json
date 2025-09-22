@@ -14,5 +14,6 @@
   },
   "author": "Andreea Sperlea",
   "description": "A project that does something awesome",
-  "keywords": [ "descriptive", "related", "words" , "freeCodeCamp","freecodecamp"]
+  "keywords": [ "descriptive", "related", "words" ,"freecodecamp"],
+  "license": "MIT"
 }
